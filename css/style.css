@@ -74,9 +74,10 @@ nav ul li a:hover {
 }
 
 .img-f {
-    background-image: url(../assets/image/ayang.jpg);
-    background-size: 180%;
-    background-position: 50%;
+    background-image: url(../assets/image/photo.jpg);
+    background-size: cover;
+    background-size: 140%;
+    background-position: 20% 70%;
     width: 150px;
     height: 150px;
     border-radius: 100%;
